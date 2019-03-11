@@ -1,5 +1,5 @@
 
 
-# Basic Passport Authentication without Express Session
+# Basic Passport Authentication with Express Session
 
-Simple Passportjs Authentication with Local Strategy without Express Session
+Simple Passportjs Authentication with Local Strategy with Express Session
